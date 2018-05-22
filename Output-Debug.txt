@@ -1,0 +1,10 @@
+﻿'Romeinse getallen.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Cannot find or open the PDB file.
+'Romeinse getallen.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Users\Dennis\Desktop\It\Romeinse getallen\Romeinse getallen\bin\Release\Romeinse getallen.exe'. Symbols loaded.
+'Romeinse getallen.exe' (CLR v4.0.30319: Romeinse getallen.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll'. Cannot find or open the PDB file.
+'Romeinse getallen.exe' (CLR v4.0.30319: Romeinse getallen.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'. Cannot find or open the PDB file.
+'Romeinse getallen.exe' (CLR v4.0.30319: Romeinse getallen.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll'. Cannot find or open the PDB file.
+'Romeinse getallen.exe' (CLR v4.0.30319: Romeinse getallen.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Numerics\v4.0_4.0.0.0__b77a5c561934e089\System.Numerics.dll'. Cannot find or open the PDB file.
+'Romeinse getallen.exe' (CLR v4.0.30319: Romeinse getallen.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll'. Cannot find or open the PDB file.
+'Romeinse getallen.exe' (CLR v4.0.30319: Romeinse getallen.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'. Cannot find or open the PDB file.
+'Romeinse getallen.exe' (CLR v4.0.30319: Romeinse getallen.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll'. Cannot find or open the PDB file.
+The program '[692] Romeinse getallen.exe' has exited with code 0 (0x0).
